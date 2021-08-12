@@ -113,11 +113,13 @@ img.img-responsive {
 	float: none;
 	margin: 0 auto;
 }
+
 .navbar-custom ul.nav li {
 	float: none;
 	display: inline-block;
 	text-align: center;
 }
+
 .navbar-custom ul.nav li a {
 	font-size: 14px;
 	letter-spacing: 1px;
