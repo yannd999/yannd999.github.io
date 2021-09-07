@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20597b7c-6190-400d-a887-f3ab69b29cf6" name="Default Changelist" comment="competenties, projecten">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Delandmeter Yannick Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="20597b7c-6190-400d-a887-f3ab69b29cf6" name="Default Changelist" comment="competenties, projecten" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +76,7 @@
       <workItem from="1582218858048" duration="695000" />
       <workItem from="1590133354674" duration="13311000" />
       <workItem from="1628697410763" duration="4459000" />
+      <workItem from="1629369404057" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="competenties, projecten">
       <created>1582130914846</created>
